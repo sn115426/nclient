@@ -1,0 +1,27 @@
+{
+    "minVersion": "0.7.10",
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.ngames.nclient.mixin",
+    "refmap": "mixins.nclient.refmap.json",
+    "client": [
+    "MixinPlayerControllerMP",
+   	"MixinSPacketEntityVelocity",
+   	"SPacketUpdateHealthMixin",
+   	"MixinCPacketPlayerRotation",
+   	"MixinCPacketPositionRotation",
+   	"MixinEntityPlayerSP",
+   	"MixinSPacketDestroyEntities",
+   	"MixinMinecraft",
+   	"MixinSPacketPlayerPosLook",
+   	"MixinCPacketInput",
+   	"MixinEntityLivingBase",
+   	"MixinGuiMainMenu",
+   	"MixinEntity",
+   	"MixinModifiableAttributeInstance",
+   	"MixinGuiNewChat",
+   	"MixinAbstractHorse",
+   	"MixinEntityPig",
+   	"MixinEntityLlama",
+   	"MixinNetworkManager"
+    ]
+}

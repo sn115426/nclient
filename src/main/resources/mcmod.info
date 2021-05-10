@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nclient",
+  "name": "N-Client",
+  "description": "Best minecraft hacked client in the world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NGames", "KMatias"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
