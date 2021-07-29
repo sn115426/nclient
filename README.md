@@ -1,2 +1,2 @@
-# nclient-buildable
- SRC of nclient from kmatias
+# nclient-src
+source code of nclient
